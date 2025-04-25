@@ -26,7 +26,7 @@
             {
               "id": "magic-powers",
               "slug": "magic-powers",
-              "name": "Magic Powers 5",
+              "name": "Magic Powers",
               "image": "https://p.productioncrate.com/stock-hd/archives/vfx/MAGIC_AND_POWERS_NO_TEXT.jpg",
               "contents": [
                 {
@@ -1188,26 +1188,6 @@
               "image": "https://p.productioncrate.com/stock-hd/archives/vfx/DIRT_AND_DEBRIS_NO_TEXT.jpg",
               "contents": [
                 {
-                  "id": "flying-debris",
-                  "slug": "flying-debris",
-                  "name": "Flying Debris",
-                  "search_tag": "Flying+Debris",
-                  "image": "https://p.productioncrate.com/stock-hd/archives/categories/FLYING_DEBRIS_NO_TEXT.jpg",
-                  "title": "FootageCrate | Flying Debris VFX | Visual Graphics | Try Free",
-                  "description": "Download high-quality Flying Debris VFX Assets for your projects. Perfect for adding dynamic elements to your videos. Try for Free!",
-                  "keywords": [
-                    "Flying Debris",
-                    "VFX",
-                    "video effects",
-                    "dynamic elements",
-                    "video editing",
-                    "4K assets",
-                    "motion graphics",
-                    "special effects",
-                    "visual effects"
-                  ]
-                },
-                {
                   "id": "dirt-debris",
                   "slug": "dirt-debris",
                   "name": "Dirt + Debris",
@@ -1246,10 +1226,10 @@
                   ]
                 },
                 {
-                  "id": "destruction",
-                  "slug": "destruction",
-                  "name": "Destruction",
-                  "search_tag": "Debris+Bursts",
+                  "id": "object-destruction",
+                  "slug": "object-destruction",
+                  "name": "Object Destruction",
+                  "search_tag": "Object Destruction",
                   "image": "https://p.productioncrate.com/stock-hd/archives/categories/Destruction_Thumbnail.jpg",
                   "title": "FootageCrate | Destruction VFX | Download 4K Assets",
                   "description": "Download high-quality destruction VFX assets for your film. Crashing vehicles, falling helicopters and various objects being smashed. Try for Free!",
@@ -1265,10 +1245,10 @@
                   ]
                 },
                 {
-                  "id": "debris-bursts",
-                  "slug": "debris-bursts",
+                  "id": "building-destruction",
+                  "slug": "building-destruction",
                   "name": "Building Destruction",
-                  "search_tag": "Debris+Bursts",
+                  "search_tag": "Building+Destruction",
                   "image": "https://p.productioncrate.com/stock-hd/archives/categories/Building_Destruction.jpg",
                   "title": "FootageCrate | Debris Bursts VFX | Download for Free",
                   "description": "Download high-quality building destruction VFX assets for your projects. Enhance your earthquake and kaiju scenes with collapsing building FX. Try for Free!",
@@ -1299,6 +1279,26 @@
                     "Debris Effects",
                     "Video Effects",
                     "ProductionCrate"
+                  ]
+                },
+                {
+                  "id": "flying-debris",
+                  "slug": "flying-debris",
+                  "name": "Flying Debris",
+                  "search_tag": "Flying+Debris",
+                  "image": "https://p.productioncrate.com/stock-hd/archives/categories/FLYING_DEBRIS_NO_TEXT.jpg",
+                  "title": "FootageCrate | Flying Debris VFX | Visual Graphics | Try Free",
+                  "description": "Download high-quality Flying Debris VFX Assets for your projects. Perfect for adding dynamic elements to your videos. Try for Free!",
+                  "keywords": [
+                    "Flying Debris",
+                    "VFX",
+                    "video effects",
+                    "dynamic elements",
+                    "video editing",
+                    "4K assets",
+                    "motion graphics",
+                    "special effects",
+                    "visual effects"
                   ]
                 }
               ],
@@ -1472,10 +1472,10 @@
                   ]
                 },
                 {
-                  "id": "debris-bursts",
-                  "slug": "debris-bursts",
+                  "id": "building-destruction",
+                  "slug": "building-destruction",
                   "name": "Building Destruction",
-                  "search_tag": "Debris+Bursts",
+                  "search_tag": "Building+Destruction",
                   "image": "https://p.productioncrate.com/stock-hd/archives/categories/Building_Destruction.jpg",
                   "title": "FootageCrate | Debris Bursts VFX | Download for Free",
                   "description": "Download high-quality building destruction VFX assets for your projects. Enhance your earthquake and kaiju scenes with collapsing building FX. Try for Free!",
