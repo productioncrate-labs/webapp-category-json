@@ -2119,10 +2119,10 @@
                   ]
                 },
                 {
-                  "id": "destruction",
+                  "id": "vehicle-destruction",
                   "slug": "destruction",
                   "name": "Destruction",
-                  "search_tag": "Debris+Bursts",
+                  "search_tag": "vehicledestruction",
                   "image": "https://p.productioncrate.com/stock-hd/archives/categories/Destruction_Thumbnail.jpg",
                   "title": "FootageCrate | Destruction VFX | Download 4K Assets",
                   "description": "Download high-quality destruction VFX assets for your film. Crashing vehicles, falling helicopters and various objects being smashed. Try for Free!",
